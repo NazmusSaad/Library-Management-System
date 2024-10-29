@@ -1,0 +1,9 @@
+BookName - Author - Genre - User - ID - OnLoan - DueIn - Popularity
+Harry Potter and the Chamber of Secrets, J. K. Rowling, Fantasy, n/a, false, 2, 21, 1
+Harry Potter and the Goblet of Fire, J. K. Rowling, Fantasy, n/a, false, 6, 21, 0
+Harry Potter and the Prisoner of Azkaban, J. K. Rowling, Fantasy, Shapnil, true, 3, 21, 1
+Harry Potter and the Prisoner of Azkaban, J. K. Rowling, Fantasy, n/a, false, 4, 21, 0
+Harry Potter and the Prisoner of Azkaban, J. K. Rowling, Fantasy, n/a, false, 5, 21, 0
+Harry Potter and the Sorceror's Stone, J. K. Rowling, Fantasy, Shapnil, true, 1, 21, 1
+Percy Jackson and The Lightning Thief, R.R, Fantasy, n/a, false, 7, 21, 0
+Percy Jackson and The Sea of Monsters, R.R, Fantasy, n/a, false, 8, 21, 0

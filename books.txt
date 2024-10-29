@@ -1,0 +1,2 @@
+BookName - Author - Genre - User - OnLoan - DueIn
+Harry Potter Book 1 - J.K.R - Fiction - Shapnil - true - 3
